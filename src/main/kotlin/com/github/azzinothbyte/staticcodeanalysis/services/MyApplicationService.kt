@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.azzinothbyte.staticcodeanalysis.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.azzinothbyte.staticcodeanalysis.MyBundle
 
 class MyApplicationService {
 
